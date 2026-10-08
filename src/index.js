@@ -17,6 +17,7 @@ const COLORS = {
   8: "#000000", // Void (black)
 };
 
+// fork testing add for diff comparison
 // Tetromino shapes (simplified for easier pattern matching)
 const SHAPES = [
   [[1]], // Single block
